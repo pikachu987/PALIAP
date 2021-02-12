@@ -1,0 +1,6 @@
+framework module PALIAP {
+  umbrella header "PALIAP-umbrella.h"
+
+  export *
+  module * { export * }
+}

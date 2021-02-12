@@ -1,0 +1,6 @@
+framework module Pods_PALIAP_Tests {
+  umbrella header "Pods-PALIAP_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
